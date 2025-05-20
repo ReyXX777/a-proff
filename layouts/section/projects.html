@@ -1,13 +1,6 @@
 {{ define "main" }}
-  <main class="projects-page">
-    <h1>🚀 My Projects</h1>
-    <div class="projects-grid">
-      {{ range .Pages.ByDate.Reverse }}
-        <div class="project">
-          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          <p>{{ .Params.summary }}</p>
-        </div>
-      {{ end }}
-    </div>
-  </main>
+<main class="projects-page">
+  <h1>🚀 My Projects</h1>
+  {{ .Content }}  <!-- This renders the HTML inside projects.md -->
+</main>
 {{ end }}
