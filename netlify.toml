@@ -1,5 +1,5 @@
 [build]
-  command = "bash fix-submodule.sh && bash fix-shortcodes.sh && bash fix-rsslink.sh && hugo --gc --minify"
+  command = "bash fix-all.sh && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
