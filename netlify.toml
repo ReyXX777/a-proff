@@ -2,6 +2,10 @@
   command = "bash fix-submodule.sh && hugo --gc --minify"
   publish = "public"
 
-[context.production.environment]
-  HUGO_VERSION = "0.92.2"
+[build.environment]
+  HUGO_VERSION = "0.111.3"  # Updated Hugo version
+  HUGO_ENV = "production"
+  GO_VERSION = "1.20"
 
+[context.production.environment]
+  HUGO_ENV = "production"
