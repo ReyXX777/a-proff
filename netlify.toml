@@ -1,5 +1,5 @@
 [build]
-  command = "bash fix-and-build.sh"
+  command = "hugo"
   publish = "public"
 
 [build.environment]
