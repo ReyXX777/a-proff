@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>João Ninguém</title>
-    <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on João Ninguém</description>
+    <title>Abhishek kumar Azad</title>
+    <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/</link>
+    <description>Recent content on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>http://localhost:1313/pt-br/posts/markdown-syntax/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/markdown-syntax/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>http://localhost:1313/pt-br/posts/math-typesetting/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/math-typesetting/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suporte a Emojis</title>
-      <link>http://localhost:1313/pt-br/posts/emoji-support/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/emoji-support/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/emoji-support/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>http://localhost:1313/pt-br/posts/hugo-coder-wiki/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/hugo-coder-wiki/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pt-br/about/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/about/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/about/</guid>
       <description>&lt;p&gt;Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Apache Licence 2.0.&lt;/a&gt; O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.&lt;/p&gt;&#xA;&lt;p&gt;O Hugo faz o uso de vários projetos de código aberto incluíndo:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:1313/pt-br/contact/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/contact/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/contact/</guid>
       <description>&lt;p&gt;Me siga em @joaoninguem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projetos</title>
-      <link>http://localhost:1313/pt-br/projects/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/projects/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/projects/</guid>
       <description>&lt;p&gt;Nada para ver aqui.. Circulando!&lt;/p&gt;</description>
     </item>
   </channel>

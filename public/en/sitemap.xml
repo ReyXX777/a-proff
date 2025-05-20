@@ -2,460 +2,460 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/about/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/about/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/authors/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/diy/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/diy/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/efficiency/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/efficiency/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hardware/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/hardware/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hardware-guide/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware-guide/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/markdown-syntax/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/markdown-syntax/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/markdown-syntax/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/pc-building/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/pc-building/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/pc-building-essentials/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/pc-building-essentials/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/pc-builds/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/pc-builds/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/power-supply/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/power-supply/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/tech-insight-editorial-team/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/</loc>
+    <lastmod>2025-05-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://warm-moonbeam-5dbfce.netlify.app/tags/"
+                />
+  </url><url>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/tech-insight-editorial-team/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/benchmark/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/benchmark/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/doom/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/doom/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/emoji-support/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/emoji-support/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/emoji-support/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/emoji-support/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/game-performance/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/game-performance/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gaming/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/gaming/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/gpu-benchmarks/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/gpu-benchmarks/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gpus/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/gpus/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hardware/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/lone-coder/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/lone-coder/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/performance/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/performance/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project15/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project15/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-nine/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-nine/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project12/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project12/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-five/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-five/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project14/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project14/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project13/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project13/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-six/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-six/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-one/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-one/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/more-rich-content/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/more-rich-content/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/couples-therapy/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/couples-therapy/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/health/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/jenette-restivo-health-writer-assistant-director-for-digital-content-creation-and-engagement-harvard-health-publishing/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/jenette-restivo-health-writer-assistant-director-for-digital-content-creation-and-engagement-harvard-health-publishing/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-health/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/psychology/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/psychology/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relationships/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/relationships/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/relationships/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/relationships/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/therapy/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/therapy/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-seven/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-seven/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/project-four/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-four/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-two/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-two/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-three/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/projects/project-three/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/placeholder-text/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/placeholder-text/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brain-health/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/brain-health/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/kelly-bilodeau-former-executive-editor-harvard-womens-health-watch/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/kelly-bilodeau-former-executive-editor-harvard-womens-health-watch/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mental-wellness/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-wellness/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/social-connections/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/social-connections/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aging/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/aging/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aging-well/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/aging-well/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/harvard/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/harvard/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/health/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/health/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health-advice/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/health-advice/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lifestyle/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/lifestyle/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/matthew-solan/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/matthew-solan/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rich-content/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/rich-content/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wellness/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/wellness/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/resilience-strategies/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/resilience-strategies/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/hugo-coder-wiki/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/resilience-strategies/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/posts/resilience-strategies/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/coping/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/coping/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/heidi-godman-executive-editor-harvard-health-letter/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/heidi-godman-executive-editor-harvard-health-letter/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/resilience/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/resilience/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stress/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/stress/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/ai-and-medicine/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/ai-and-medicine/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-in-healthcare/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/ai-in-healthcare/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/html-and-css-only-tabs/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/html-and-css-only-tabs/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chatgpt/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/chatgpt/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/doctor-vs-ai/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/doctor-vs-ai/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/empathy/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/empathy/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health-tech/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/health-tech/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-advice/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/medical-advice/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/medical-research/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/medical-research/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/robert-h.-shmerling-md/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/robert-h.-shmerling-md/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/css/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/css/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/css/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/html/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/html/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/html/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/hugo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/hugo/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/hugo/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/tags/markdown/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/markdown/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/markdown/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/math-typesetting/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/math-typesetting/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/math-typesetting/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/syntax/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categoria/sintaxe/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/syntax/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/theme-demo/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/series/theme-demo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/theme-demo/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/categories/theme-demo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mermaid-support/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/hugo-authors/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/hugo-authors/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://warm-moonbeam-5dbfce.netlify.app/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/contact/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/contact/"
+                href="https://warm-moonbeam-5dbfce.netlify.app/contact/"
                 />
   </url>
 </urlset>
