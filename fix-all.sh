@@ -265,5 +265,3 @@ else
 fi
 
 echo "All fixes completed successfully!"
-echo "PART 4: Fixing Hugo.Generator deprecation..."
-./fix-hugo-generator.sh
