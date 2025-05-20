@@ -32,7 +32,7 @@ git clone https://github.com/luizdepra/hugo-coder.git themes/coder
 # Check out a specific version of the theme compatible with Hugo 0.111.3
 cd themes/coder
 echo "Checking out a compatible version of the theme..."
-git checkout v1.0.0
+git checkout v1.0
 cd ../..
 
 # Patch the theme-styles.html file to fix the IsServer issue
