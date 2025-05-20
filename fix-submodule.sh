@@ -35,8 +35,12 @@ echo "Checking out a compatible version of the theme..."
 git checkout v1.0
 cd ../..
 
+# First, check if the directory exists, if not create it
+echo "Checking and creating theme partials directory structure if needed..."
+mkdir -p themes/coder/layouts/partials/head
+
 # Patch the theme-styles.html file to fix the IsServer issue
-echo "Patching theme to fix IsServer compatibility issue..."
+echo "Creating theme-styles.html file to fix IsServer compatibility issue..."
 cat > themes/coder/layouts/partials/head/theme-styles.html <<'EOL'
 {{- $options := (dict "targetPath" "css/coder.css" "outputStyle" "compressed" "enableSourceMap" true) -}}
 {{- $styles := resources.Get "scss/coder.scss" | resources.ExecuteAsTemplate "style.coder.css" . | resources.ToCSS $options -}}
@@ -97,6 +101,16 @@ if [ -f "go.mod" ]; then
   echo "Found go.mod file, adjusting Hugo module configuration..."
   # Comment out any reference to hugo-coder module
   sed -i 's/\(.*hugo-coder.*\)/\/\/ \1 # Disabled by fix-submodule.sh/g' go.mod
+fi
+
+# Verify that all required theme files exist
+echo "Verifying theme structure..."
+if [ -d "themes/coder/layouts" ] && [ -f "themes/coder/layouts/partials/head/theme-styles.html" ]; then
+  echo "Theme setup verified successfully!"
+else
+  echo "WARNING: Theme directory structure verification failed. This might cause build errors."
+  echo "Current theme structure:"
+  find themes/coder -type d | sort
 fi
 
 echo "Submodule fix completed successfully!"
