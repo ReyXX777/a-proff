@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Code-View – Multi-Language Compiler · Abhishek kumar Azad
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Abhishek kumar Azad">
+<meta name="description" content="Android app for compiling and analyzing code with AST visualization and execution tracing">
+<meta name="keywords" content="blog,developer,personal">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Code-View – Multi-Language Compiler">
+  <meta name="twitter:description" content="Android app for compiling and analyzing code with AST visualization and execution tracing">
+
+<meta property="og:url" content="http://localhost:1313/projects/project-five/">
+  <meta property="og:site_name" content="Abhishek kumar Azad">
+  <meta property="og:title" content="Code-View – Multi-Language Compiler">
+  <meta property="og:description" content="Android app for compiling and analyzing code with AST visualization and execution tracing">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2025-03-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-01T00:00:00+00:00">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/projects/project-five/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      Abhishek kumar Azad
+    </a>
+    
+
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          <li class="navigation-item">
+            <a class="navigation-link " href="/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link " href="/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link " href="/projects/">Projects</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link " href="/contact/">Contact me</a>
+          </li>
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container project-detail">
+    <article>
+      <header>
+        <h1 class="project-title">Code-View – Multi-Language Compiler</h1>
+        
+          <p class="project-summary">Android app for compiling and analyzing code with AST visualization and execution tracing</p>
+        
+      </header>
+
+      
+        <div class="project-hero">
+          <img src="/images/codeview.jpg" alt="Featured image"/>
+        </div>
+      
+
+      <div class="project-content">
+        <style>
+  /* Developer Theme */
+  :root {
+    --primary: #2563eb; /* Blue */
+    --secondary: #7c3aed; /* Purple */
+    --dark: #1e293b;
+    --light: #f8fafc;
+    --code-bg: #1e1e2e;
+  }
+
+  body {
+    background-color: var(--light);
+  }
+
+  .project-detail {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    font-family: 'Inter', -apple-system, sans-serif;
+    color: var(--dark);
+    line-height: 1.6;
+  }
+
+  .project-title {
+    font-size: 3rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+  }
+  .project-hero {
+    /* Set the maximum width for the hero section to 75% of its parent's content area. */
+    max-width: 38%;
+    /* Center the hero section horizontally on the page. */
+    margin-left: auto;
+    margin-right: auto;
+    /* Maintain existing styling for appearance (border-radius, shadow, margin-bottom). */
+    border-radius: 16px;
+    box-shadow: 0 15px 30px -8px rgba(0,0,0,0.1);
+    margin-bottom: 2rem;
+    overflow: hidden; /* Crucial to apply border-radius and contain image */
+    /* Remove any 'position: relative;' or 'padding-bottom:' if they were for 16:9 aspect ratio. */
+  }
+
+  .project-hero img {
+    /* Make the image fill 100% of its .project-hero container's width. */
+    width: 100%;
+    /* Crucial: Maintain the image's original aspect ratio as it scales down. */
+    height: auto;
+    /* Ensure no extra space below the image. */
+    display: block;
+    /* Remove any 'position: absolute;' or 'top/left' properties that were for 16:9 aspect ratio. */
+  }
+
+  /* ... (Rest of your CSS, including other sections like .features-grid, .tech-grid, etc.) ... */
+
+  /* Optional: Add a responsive adjustment for smaller screens */
+  @media (max-width: 768px) {
+    .project-hero {
+      max-width: 70%; /* On smaller screens, allow it to be a bit larger to remain visible */
+    }
+  }
+
+  .project-summary {
+    font-size: 1.25rem;
+    padding: 1.5rem;
+    background: var(--light);
+    border-left: 4px solid var(--primary);
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 3rem;
+    border: 1px solid #e2e8f0;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+    margin: 2.5rem 0 1.5rem;
+    position: relative;
+    display: inline-block;
+  }
+  h2:after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    border-radius: 2px;
+  }
+
+  /* Code Visualization */
+  .code-visualization {
+    display: flex;
+    margin: 2rem 0;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+  }
+  .code-tabs {
+    display: flex;
+    border-bottom: 1px solid #e2e8f0;
+    padding: 0 1rem;
+  }
+  .code-tab {
+    padding: 0.75rem 1.5rem;
+    cursor: pointer;
+    position: relative;
+  }
+  .code-tab.active:after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: var(--primary);
+  }
+
+  /* Tech Stack Grid */
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+  .tech-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    border: 1px solid #e2e8f0;
+    transition: all 0.3s ease;
+  }
+  .tech-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+    border-color: var(--primary);
+  }
+  .tech-card h3 {
+    margin-top: 0;
+    color: var(--primary);
+  }
+
+  /* Buttons */
+  .btn-group {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+  }
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.75rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+  .btn-primary {
+    background: linear-gradient(90deg, var(--primary), var(--secondary));
+    color: white;
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3);
+  }
+  .btn-secondary {
+    background: white;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+  }
+  .btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4);
+  }
+
+  /* Demo Video */
+  .demo-video {
+    margin: 4rem 0;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,0.1);
+    border: 1px solid #e2e8f0;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .project-title { font-size: 2.25rem; }
+    .tech-grid { grid-template-columns: 1fr; }
+    .btn-group { flex-direction: column; }
+  }
+
+  /* Code Block */
+  .code-block {
+    background: var(--code-bg);
+    color: #f8f8f2;
+    padding: 1.5rem;
+    border-radius: 8px;
+    font-family: 'Fira Code', monospace;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+  }
+  .code-keyword { color: #ff79c6; }
+  .code-type { color: #8be9fd; }
+  .code-string { color: #f1fa8c; }
+  .code-comment { color: #6272a4; }
+</style>
+<div class="project-detail">
+  <h1 class="project-title">{{ .Title }}</h1>
+  <div class="project-summary">
+    Code-View revolutionizes code learning with real-time compilation, AST visualization, and execution tracing - all in a Material Design 3 Android app with a powerful backend analysis engine.
+  </div>
+  <div class="project-hero">
+    <img src="/images/codeview1.jpg" alt="Code-View app interface showing code analysis" />
+  </div>
+<!-- 
+<h2>🎬 App Demo</h2>
+<div class="demo-video">
+  <video controls width="100%" poster="{{ .Params.featuredImage | relURL }}">
+    <source src="{{ .Params.demoVideo | relURL }}" type="video/mp4">
+    Your browser doesn't support HTML5 video.
+  </video>
+</div>
+-->
+  <h2>🚀 Key Features</h2>
+  <ul>
+    <li><strong>Multi-Language Support:</strong> Java, C, and Kotlin compilation and analysis</li>
+    <li><strong>AST Visualization:</strong> Interactive tree-view of abstract syntax trees</li>
+    <li><strong>Execution Tracing:</strong> Step-by-step program flow visualization</li>
+    <li><strong>Symbol Tables:</strong> Real-time display of variables and scopes</li>
+    <li><strong>Control Flow Graphs:</strong> Visual representation of program logic</li>
+    <li><strong>Secure Execution:</strong> Isolated backend processing with child_process.spawn</li>
+  </ul>
+  <div class="code-block">
+    <span class="code-keyword">public class</span> <span class="code-type">Main</span> {<br>
+    &nbsp;&nbsp;<span class="code-keyword">public static void</span> main(String[] args) {<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<span class="code-comment">// Sample code visualization</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;System.out.println(<span class="code-string">"Hello Code-View!"</span>);<br>
+    &nbsp;&nbsp;}<br>
+    }
+  </div>
+  <h2>🛠 Technology Stack</h2>
+  <div class="tech-grid">
+    <div class="tech-card">
+      <h3>Mobile App</h3>
+      <p>Kotlin + Jetpack Compose</p>
+      <p>Material Design 3</p>
+    </div>
+    <div class="tech-card">
+      <h3>Backend</h3>
+      <p>Node.js + Express</p>
+      <p>Docker containers</p>
+    </div>
+    <div class="tech-card">
+      <h3>Infrastructure</h3>
+      <p>Railway deployment</p>
+      <p>WebView integration</p>
+    </div>
+    <div class="tech-card">
+      <h3>Analysis</h3>
+      <p>ANTLR parsing</p>
+      <p>Compiler phases</p>
+    </div>
+  </div>
+  <h2>⚙️ Technical Implementation</h2>
+  <ul>
+    <li><strong>Modular Architecture:</strong> Separated compiler phases into independent modules</li>
+    <li><strong>Real-Time Communication:</strong> WebSocket-based updates between app and backend</li>
+    <li><strong>Material 3 Compliance:</strong> Followed latest Android design guidelines</li>
+    <li><strong>Secure Execution:</strong> Sandboxed code execution with resource limits</li>
+    <li><strong>Optimized Performance:</strong> Cached parsing results and incremental analysis</li>
+  </ul>
+  <h2>📊 Sample Analysis Output</h2>
+  <div class="code-visualization">
+    <div style="padding: 1.5rem; width: 100%;">
+      <div class="code-tabs">
+        <div class="code-tab active">AST</div>
+        <div class="code-tab">CFG</div>
+        <div class="code-tab">Symbol Table</div>
+      </div>
+      <div style="margin-top: 1rem; text-align: center;">
+        <img src="/images/ast-visualization.png" alt="AST visualization example" style="max-width: 100%; border-radius: 4px;">
+      </div>
+    </div>
+  </div>
+  <div class="btn-group">
+    <a href="{{ .Params.downloadUrl }}" class="btn btn-primary" target="_blank">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="margin-right:8px;">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+        <polyline points="7 10 12 15 17 10"></polyline>
+        <line x1="12" y1="15" x2="12" y2="3"></line>
+      </svg>
+      Download APK
+    </a>
+    <a href="{{ .Params.demoVideo | relURL }}" class="btn btn-secondary" target="_blank">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" style="margin-right:8px;">
+        <polygon points="23 7 16 12 23 17 23 7"></polygon>
+        <rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+      </svg>
+      Watch Pitch
+    </a>
+  </div>
+</div>
+<script>
+  // Tab functionality for code visualization
+  document.querySelectorAll('.code-tab').forEach(tab => {
+    tab.addEventListener('click', function() {
+      document.querySelector('.code-tab.active').classList.remove('active');
+      this.classList.add('active');
+      // Here you would typically switch the visualization content
+    });
+  });
+</script>
+      </div>
+
+    </article>
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2021 -
+    
+    2025
+     Abhishek kumar Azad 
+    ·
+    
+    Powered by <a href="https://theuselessweb.com/" target="_blank" rel="noopener">Internet</a> & <a href="https://www.commitstrip.com/en/" target="_blank" rel="noopener">Entropy</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <style>
+  .cursor-follower {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background: rgba(0, 150, 255, 0.5);
+    border-radius: 50%;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    mix-blend-mode: difference;
+  }
+</style>
+<div class="cursor-follower"></div>
+<script>
+  
+  const cursor = document.querySelector('.cursor-follower');
+  document.addEventListener('mousemove', (e) => {
+    cursor.style.left = e.clientX + 'px';
+    cursor.style.top = e.clientY + 'px';
+  });
+</script>
+<button 
+  id="backToTop" 
+  aria-label="Back to top" 
+  style="
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    left: 30px;  /* Changed from right to left */
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    background: #4a6fa5;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s, transform 0.3s, background 0.2s;
+    z-index: 1000;
+  "
+  onmouseover="this.style.background='#3a5a8a'"
+  onmouseout="this.style.background='#4a6fa5'"
+>
+  ↑
+</button>
+
+<script>
+  
+  window.addEventListener('scroll', () => {
+    const backToTop = document.getElementById('backToTop');
+    if (window.scrollY > 300) {
+      backToTop.style.display = 'block';
+      setTimeout(() => {
+        backToTop.style.opacity = '1';
+        backToTop.style.transform = 'translateY(0)';
+      }, 10);
+    } else {
+      backToTop.style.opacity = '0';
+      backToTop.style.transform = 'translateY(20px)';
+      setTimeout(() => {
+        backToTop.style.display = 'none';
+      }, 300); 
+    }
+  });
+
+  
+  document.getElementById('backToTop').addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
+<script>
+  
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+      e.preventDefault();
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
+</script>
+<div class="scroll-progress" style="height: 4px; background: linear-gradient(to right, #4a6fa5, #3a5a8a); position: fixed; top: 0; left: 0; width: 0%; z-index: 9999;"></div>
+<script>
+  window.addEventListener('scroll', () => {
+    const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+    const scrolled = (window.scrollY / scrollable) * 100;
+    document.querySelector('.scroll-progress').style.width = `${scrolled}%`;
+  });
+</script>
+</body>
+</html>

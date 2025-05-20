@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GPU Benchmarks on Abhishek kumar Azad</title>
+    <link>http://localhost:1313/series/gpu-benchmarks/</link>
+    <description>Recent content in GPU Benchmarks on Abhishek kumar Azad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/gpu-benchmarks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOOM The Dark Ages Tested: 13 GPUs Benchmarked To Hell And Back</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>&lt;p&gt;DOOM is back—and it&amp;rsquo;s never looked meaner. &lt;strong&gt;DOOM The Dark Ages&lt;/strong&gt; is the latest installment in Id Software&amp;rsquo;s iconic franchise, bringing a brutal blend of medieval mayhem and modern firepower. Powered by the &lt;strong&gt;id Tech 8 engine&lt;/strong&gt;, this entry trades Mars for dark fantasy while keeping the brutal combat, metal soundtrack, and silky-smooth performance that DOOM is known for.&lt;/p&gt;&#xA;&lt;p&gt;Naturally, we had to see how it runs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
