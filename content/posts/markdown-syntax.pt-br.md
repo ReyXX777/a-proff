@@ -1,76 +1,164 @@
 +++
-authors = ["Tech Insight Editorial Team"]
-title = "How to Choose the Right Power Supply for Your PC"
-date = "2025-05-19"
-description = "A comprehensive overview of critical factors when selecting a PSU for your PC build—covering wattage, form factors, and efficiency ratings."
+authors = ["Programador Solitário"]
+title = "Guia de Sintaxe Markdown"
+date = "2023-07-13"
+description = "Artigo de exemplo mostrando a sintaxe básica Markdown e a formatação de elementos HTML."
 tags = [
-    "PC building",
-    "power supply",
-    "hardware",
-    "DIY",
-    "efficiency",
+    "hugo",
+    "markdown",
+    "css",
+    "html",
 ]
 categories = [
-    "hardware guide",
-    "PC builds",
+    "sintaxe",
+    "demonstração do tema",
 ]
-series = ["PC Building Essentials"]
-aliases = ["psu-buying-guide"]
-featuredImage = "/images/powerpost.jpg" # <--- Added this line
-
+series = ["Demonstração do Tema"]
+aliases = ["migrate-from-jekyl"]
 +++
 
-When you’re preparing to build a new PC, the first topics on your mind are likely powerful multi-core processors, fancy high-end graphics cards, ultra-fast NVMe storage, or maybe even unique case lighting and effects. But one component that often fails to get the attention it deserves is the power supply. After all, virtually every other component in your PC can be affected by the type, quality, and capabilities of your PSU.
-
-That makes the process of choosing the right power supply just as important as any other component. Therefore, here’s a quick high-level overview of the factors you should consider when looking at power supplies for your next PC build.
+Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.
 
 <!--more-->
 
-## Power Supply Wattage
+## Cabeçalhos
 
-The first step in choosing a power supply is determining your required wattage. Choosing the correct wattage is important: going too low will prevent your components from performing at their expected level, cause system instability, and can even damage components. Going too high wastes money that could be spent elsewhere, although it won’t hurt the components.
+Os seguintes elementos HTML `<h1>`—`<h6>` representam 6 níveis de cabeçalhos de seção. `<h1>` é para seções de nível mais alto enquanto `<h6>` é para o nível mais baixo.
 
-Despite the marketing hype around 1000W+ units, most systems—even high-end ones—don’t need more than 650–750W. Tools like PSU calculators can help estimate the correct wattage based on your planned build.
+# H1
 
-Some calculators (e.g., from be quiet!) also check for connector compatibility, warning you if your GPU or CPU power needs exceed a PSU’s available outputs—even if the wattage is sufficient.
+## H2
 
-## Power Supply Form Factor
+### H3
 
-### ATX
+#### H4
 
-ATX is the most common power supply form factor. Modern ATX PSUs comply with the EPS standard, supporting dual 4-pin or single 8-pin CPU connectors. Dimensions:  
-- Width: 150mm  
-- Height: 86mm  
-- Depth: 140–200mm+ depending on wattage and design
+##### H5
 
-Make sure your case supports the depth of the chosen PSU.
+###### H6
 
-### SFX / SFX-L
+## Parágrafo
 
-SFX (Small Form Factor) PSUs are ideal for compact builds. Standard dimensions:  
-- Width: 125mm  
-- Height: 63.5mm  
-- Depth: 100mm
+Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
 
-SFX-L extends depth to 130mm to allow larger fans and higher wattages. They’re more expensive at the same wattage but are necessary for small cases. You can use adapters to mount SFX PSUs in ATX cases.
+Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
-## Power Supply Efficiency
+## Citações
 
-The 80 PLUS program certifies power supplies by efficiency. Tiers include:  
-- 80 PLUS (basic)  
-- Bronze  
-- Silver  
-- Gold  
-- Platinum  
-- Titanium (highest)
+O elemento de citações representa um conteúdo citado de outra origem, opcionalmente com atribuição que deve estar contida em um elemento `footer` ou `cite`, e também opcionalmente com informações in-line como anotações e abreviações.
 
-More efficient PSUs generate less heat and waste less power. Look for at least 80 PLUS Bronze for general use, and Gold or better for high-end or always-on systems.
+#### Citações sem atribuição
 
-## Summary
+> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+> **Note** that you can use _Markdown syntax_ within a blockquote.
 
-Selecting the right PSU ensures system stability, safety, and long-term performance. Focus on:
-- **Wattage**: Match your component needs
-- **Form factor**: Ensure it fits your case
-- **Efficiency**: Higher is better for performance and power savings
+#### Citações com atribuição
 
-A good PSU is an investment in your entire build—don’t treat it as an afterthought.
+> Não comunique compartilhando memória, compartilhe memória comunicando.<br>
+> — <cite>Rob Pike[^1]</cite>
+
+## Tabelas
+
+Tabelas não fazem parte do cerne da especificação do Markdown, mas o Hugo oferece suporte a elas.
+
+| Nome  | Idade |
+| ----- | ----- |
+| Bob   | 27    |
+| Alice | 23    |
+
+#### Tabelas com Markdown inline
+
+| Italics   | Bold     | Code   |
+| --------- | -------- | ------ |
+| _italics_ | **bold** | `code` |
+
+## Blocos de código
+
+#### Blocos de código com crase
+
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8" />
+        <title>Exemplo de Documento HTML5</title>
+    </head>
+    <body>
+        <p>Teste</p>
+    </body>
+</html>
+```
+
+#### Blocos de código com quatro espaços
+
+    <!doctype html>
+    <html lang="pt-br">
+    <head>
+      <meta charset="utf-8">
+      <title>Exemplo de Documento HTML5</title>
+    </head>
+    <body>
+      <p>Teste</p>
+    </body>
+    </html>
+
+#### Blocos de código com highlight shortcode interno do Hugo
+
+{{< highlight html >}}
+
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Exemplo de Documento HTML5</title>
+</head>
+<body>
+  <p>Teste</p>
+</body>
+</html>
+{{< /highlight >}}
+
+## Tipos de Listas
+
+#### Listas Ordenada
+
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+
+#### Listas não Ordenada
+
+-   Um item
+-   Outro item
+-   Algum outro item
+
+#### Listas aninhadas
+
+-   Frutas
+    -   Maçã
+    -   Laranja
+    -   Banana
+-   Laticínios
+    -   Leite
+    -   Queijo
+
+#### Notas de Rodapé
+
+Verifique[^2] no final[^3] desse texto[^4].
+
+## Outros Elementos — abbr, sub, sup, kbd, mark
+
+<abbr title="Graphics Interchange Format">GIF</abbr> é um formato de imagem bitmap.
+
+H<sub>2</sub>O
+
+X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+
+Aperte <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> para fechar.
+
+A maioria das <mark>salamandras</mark> são noturnas e caçam insetos, vermes, e outras criaturas pequenas.
+
+[^1]: A citação acima foi extraída da [apresentação](https://www.youtube.com/watch?v=PAAkCSZUG1c) do Rob Pike durante a Gopherfest, de 18 de Novembro de 2015.
+[^2]: Uma nota de rodapé.
+[^3]: Outra aqui.
+[^4]: Legal, né?
