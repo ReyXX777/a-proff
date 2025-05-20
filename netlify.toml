@@ -1,5 +1,5 @@
 [build]
-  command = "bash fix-all.sh && hugo --gc --minify"
+  command = "bash fix-all.sh && bash fix-hugo-generator.sh && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
