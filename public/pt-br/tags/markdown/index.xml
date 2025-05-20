@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on João Ninguém</title>
-    <link>http://localhost:1313/pt-br/tags/markdown/</link>
-    <description>Recent content in Markdown on João Ninguém</description>
+    <title>Markdown on Abhishek kumar Azad</title>
+    <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/markdown/</link>
+    <description>Recent content in Markdown on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://warm-moonbeam-5dbfce.netlify.app/pt-br/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>http://localhost:1313/pt-br/posts/markdown-syntax/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/markdown-syntax/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>http://localhost:1313/pt-br/posts/math-typesetting/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/math-typesetting/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suporte a Emojis</title>
-      <link>http://localhost:1313/pt-br/posts/emoji-support/</link>
+      <link>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/emoji-support/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/emoji-support/</guid>
+      <guid>https://warm-moonbeam-5dbfce.netlify.app/pt-br/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
   </channel>
