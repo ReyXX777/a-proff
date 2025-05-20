@@ -1,5 +1,5 @@
 [build]
-  command = "bash fix-all.sh && bash patch-theme.sh && bash fix-hugo-generator.sh && bash fix-url-deprecation.sh && hugo --gc --minify"
+  command = "bash fix-all.sh && bash fix-shortcodes.sh && fix-submodule.sh && bash patch-theme.sh &&  bash fix-rsslink.sh && bash fix-hugo-generator.sh && bash fix-url-deprecation.sh && hugo --gc --minify"
   publish = "public"
 
 [build.environment]
