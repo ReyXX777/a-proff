@@ -38,6 +38,8 @@ cd themes/coder
 echo "Checking out a compatible version of the theme..."
 git checkout v1.0
 cd ../..
+sed -i 's/\.RelPermalink/\.URL/g' themes/coder/layouts/partials/header.html
+
 
 # ----- PART 2: RSSLINK FIX -----
 echo "PART 2: Fixing RSSLink deprecation..."
