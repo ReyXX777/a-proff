@@ -15,7 +15,7 @@ I check it more often than my fridge.
 
 ### 🐦 Twitter  
 Let’s exchange hot takes, memes, and dev rants:  
-[@AzadXx77](https://x.com/AzadXx77)
+[@ummmm](https://reyxx777.github.io/X-redirect-X/)
 
 ### 💼 LinkedIn  
 Professional vibes? Collaborations? Career convos?  
