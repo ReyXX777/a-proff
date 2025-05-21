@@ -239,7 +239,7 @@ downloadUrl = "https://www.dropbox.com/link-to-apk"
     <img src="{{ .Params.featuredImage | relURL }}" alt="desc->GCPU app interface showing CPU and GPU metrics" />
   </div>
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     **desc->GCPU** is a cutting-edge Android Task Manager, empowering users with real-time insights into their device's CPU, GPU, and task activity. It provides a comprehensive overview of system performance and resource consumption.

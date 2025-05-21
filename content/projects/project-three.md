@@ -197,7 +197,7 @@ websiteUrl = "https://zerotrustappazadxx77.netlify.app/"
 
   
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     AIZeroTrust redefines cybersecurity with real-time threat analysis and Zero Trust architecture, combining AI-driven detection with intuitive visualization for enterprise-grade protection.
