@@ -223,7 +223,7 @@ downloadUrl = "https://www.dropbox.com/link-to-apk"
 
   
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     Code-View revolutionizes code learning with real-time compilation, AST visualization, and execution tracing - all in a Material Design 3 Android app with a powerful backend analysis engine.

@@ -225,7 +225,7 @@ websiteUrl = "https://soulana-azadxx77.netlify.app/"
 
   
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     SouLana delivers the flattest Solana ecosystem experience with NFT auctions, token swaps, and real estate tokenization - all powered by lightning-fast blockchain technology and intuitive interfaces.

@@ -258,7 +258,7 @@ demoVideo = "/videos/kafkapro-demo.mp4"
 
   
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     KafkaPro revolutionizes enterprise communication by combining cutting-edge NLP with real-time processing, delivering instant, context-aware responses for technical teams.

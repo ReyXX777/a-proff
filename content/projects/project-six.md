@@ -228,7 +228,7 @@ downloadUrl = "https://www.dropbox.com/link-to-apk"
     <img src="{{ .Params.featuredImage | relURL }}" alt="VisualR app interface showing recursive function visualization" />
   </div>
 
-  <h1 class="project-title">{{ .Title }}</h1>
+  <h1 class="project-title">Tech Talk</h1>
 
   <div class="project-summary">
     VisualR transforms how students learn recursion by animating each step of recursive function execution, making abstract concepts tangible through interactive visualization and adjustable playback.
