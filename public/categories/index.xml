@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Abhishek kumar Azad</title>
-    <link>https://warm-moonbeam-5dbfce.netlify.app/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://warm-moonbeam-5dbfce.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardware Guide</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware-guide/</link>
+      <link>http://localhost:1313/categories/hardware-guide/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware-guide/</guid>
+      <guid>http://localhost:1313/categories/hardware-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>PC Builds</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/pc-builds/</link>
+      <link>http://localhost:1313/categories/pc-builds/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/pc-builds/</guid>
+      <guid>http://localhost:1313/categories/pc-builds/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Performance</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/game-performance/</link>
+      <link>http://localhost:1313/categories/game-performance/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/game-performance/</guid>
+      <guid>http://localhost:1313/categories/game-performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware/</link>
+      <link>http://localhost:1313/categories/hardware/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/hardware/</guid>
+      <guid>http://localhost:1313/categories/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/health/</link>
+      <link>http://localhost:1313/categories/health/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/health/</guid>
+      <guid>http://localhost:1313/categories/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychology</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/psychology/</link>
+      <link>http://localhost:1313/categories/psychology/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/psychology/</guid>
+      <guid>http://localhost:1313/categories/psychology/</guid>
       <description></description>
     </item>
     <item>
       <title>Aging Well</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/aging-well/</link>
+      <link>http://localhost:1313/categories/aging-well/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/aging-well/</guid>
+      <guid>http://localhost:1313/categories/aging-well/</guid>
       <description></description>
     </item>
     <item>
       <title>Health Advice</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/health-advice/</link>
+      <link>http://localhost:1313/categories/health-advice/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/health-advice/</guid>
+      <guid>http://localhost:1313/categories/health-advice/</guid>
       <description></description>
     </item>
     <item>
       <title>Health Tech</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/health-tech/</link>
+      <link>http://localhost:1313/categories/health-tech/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/health-tech/</guid>
+      <guid>http://localhost:1313/categories/health-tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Research</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/medical-research/</link>
+      <link>http://localhost:1313/categories/medical-research/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/medical-research/</guid>
+      <guid>http://localhost:1313/categories/medical-research/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/syntax/</link>
+      <link>http://localhost:1313/categories/syntax/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/syntax/</guid>
+      <guid>http://localhost:1313/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/categories/theme-demo/</link>
+      <link>http://localhost:1313/categories/theme-demo/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/categories/theme-demo/</guid>
+      <guid>http://localhost:1313/categories/theme-demo/</guid>
       <description></description>
     </item>
   </channel>

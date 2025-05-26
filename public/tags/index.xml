@@ -2,248 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Abhishek kumar Azad</title>
-    <link>https://warm-moonbeam-5dbfce.netlify.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://warm-moonbeam-5dbfce.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accusoft</title>
+      <link>http://localhost:1313/tags/accusoft/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/accusoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Document Processing</title>
+      <link>http://localhost:1313/tags/document-processing/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/document-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enterprise Software</title>
+      <link>http://localhost:1313/tags/enterprise-software/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/enterprise-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>http://localhost:1313/tags/ocr/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ocr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDK</title>
+      <link>http://localhost:1313/tags/sdk/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sdk/</guid>
+      <description></description>
+    </item>
     <item>
       <title>DIY</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/diy/</link>
+      <link>http://localhost:1313/tags/diy/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/diy/</guid>
+      <guid>http://localhost:1313/tags/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Efficiency</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/efficiency/</link>
+      <link>http://localhost:1313/tags/efficiency/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/efficiency/</guid>
+      <guid>http://localhost:1313/tags/efficiency/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardware</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/hardware/</link>
+      <link>http://localhost:1313/tags/hardware/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/hardware/</guid>
+      <guid>http://localhost:1313/tags/hardware/</guid>
       <description></description>
     </item>
     <item>
       <title>PC Building</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/pc-building/</link>
+      <link>http://localhost:1313/tags/pc-building/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/pc-building/</guid>
+      <guid>http://localhost:1313/tags/pc-building/</guid>
       <description></description>
     </item>
     <item>
       <title>Power Supply</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/power-supply/</link>
+      <link>http://localhost:1313/tags/power-supply/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/power-supply/</guid>
+      <guid>http://localhost:1313/tags/power-supply/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmark</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/benchmark/</link>
+      <link>http://localhost:1313/tags/benchmark/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/benchmark/</guid>
+      <guid>http://localhost:1313/tags/benchmark/</guid>
       <description></description>
     </item>
     <item>
       <title>DOOM</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/doom/</link>
+      <link>http://localhost:1313/tags/doom/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/doom/</guid>
+      <guid>http://localhost:1313/tags/doom/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/gaming/</link>
+      <link>http://localhost:1313/tags/gaming/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/gaming/</guid>
+      <guid>http://localhost:1313/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>GPUs</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/gpus/</link>
+      <link>http://localhost:1313/tags/gpus/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/gpus/</guid>
+      <guid>http://localhost:1313/tags/gpus/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/performance/</link>
+      <link>http://localhost:1313/tags/performance/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/performance/</guid>
+      <guid>http://localhost:1313/tags/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Couples Therapy</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/couples-therapy/</link>
+      <link>http://localhost:1313/tags/couples-therapy/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/couples-therapy/</guid>
+      <guid>http://localhost:1313/tags/couples-therapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Health</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-health/</link>
+      <link>http://localhost:1313/tags/mental-health/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-health/</guid>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Relationships</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/relationships/</link>
+      <link>http://localhost:1313/tags/relationships/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/relationships/</guid>
+      <guid>http://localhost:1313/tags/relationships/</guid>
       <description></description>
     </item>
     <item>
       <title>Therapy</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/therapy/</link>
+      <link>http://localhost:1313/tags/therapy/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/therapy/</guid>
+      <guid>http://localhost:1313/tags/therapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Health</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/brain-health/</link>
+      <link>http://localhost:1313/tags/brain-health/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/brain-health/</guid>
+      <guid>http://localhost:1313/tags/brain-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Wellness</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-wellness/</link>
+      <link>http://localhost:1313/tags/mental-wellness/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/mental-wellness/</guid>
+      <guid>http://localhost:1313/tags/mental-wellness/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Connections</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/social-connections/</link>
+      <link>http://localhost:1313/tags/social-connections/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/social-connections/</guid>
+      <guid>http://localhost:1313/tags/social-connections/</guid>
       <description></description>
     </item>
     <item>
       <title>Aging</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/aging/</link>
+      <link>http://localhost:1313/tags/aging/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/aging/</guid>
+      <guid>http://localhost:1313/tags/aging/</guid>
       <description></description>
     </item>
     <item>
       <title>Harvard</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/harvard/</link>
+      <link>http://localhost:1313/tags/harvard/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/harvard/</guid>
+      <guid>http://localhost:1313/tags/harvard/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/health/</link>
+      <link>http://localhost:1313/tags/health/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/health/</guid>
+      <guid>http://localhost:1313/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/lifestyle/</link>
+      <link>http://localhost:1313/tags/lifestyle/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/lifestyle/</guid>
+      <guid>http://localhost:1313/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Wellness</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/wellness/</link>
+      <link>http://localhost:1313/tags/wellness/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/wellness/</guid>
+      <guid>http://localhost:1313/tags/wellness/</guid>
       <description></description>
     </item>
     <item>
       <title>Coping</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/coping/</link>
+      <link>http://localhost:1313/tags/coping/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/coping/</guid>
+      <guid>http://localhost:1313/tags/coping/</guid>
       <description></description>
     </item>
     <item>
       <title>Resilience</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/resilience/</link>
+      <link>http://localhost:1313/tags/resilience/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/resilience/</guid>
+      <guid>http://localhost:1313/tags/resilience/</guid>
       <description></description>
     </item>
     <item>
       <title>Stress</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/stress/</link>
+      <link>http://localhost:1313/tags/stress/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/stress/</guid>
+      <guid>http://localhost:1313/tags/stress/</guid>
       <description></description>
     </item>
     <item>
       <title>AI in Healthcare</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/ai-in-healthcare/</link>
+      <link>http://localhost:1313/tags/ai-in-healthcare/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/ai-in-healthcare/</guid>
+      <guid>http://localhost:1313/tags/ai-in-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>ChatGPT</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/chatgpt/</link>
+      <link>http://localhost:1313/tags/chatgpt/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/chatgpt/</guid>
+      <guid>http://localhost:1313/tags/chatgpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Doctor vs AI</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/doctor-vs-ai/</link>
+      <link>http://localhost:1313/tags/doctor-vs-ai/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/doctor-vs-ai/</guid>
+      <guid>http://localhost:1313/tags/doctor-vs-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathy</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/empathy/</link>
+      <link>http://localhost:1313/tags/empathy/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/empathy/</guid>
+      <guid>http://localhost:1313/tags/empathy/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Advice</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/medical-advice/</link>
+      <link>http://localhost:1313/tags/medical-advice/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/medical-advice/</guid>
+      <guid>http://localhost:1313/tags/medical-advice/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/html/</guid>
+      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://warm-moonbeam-5dbfce.netlify.app/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://warm-moonbeam-5dbfce.netlify.app/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
