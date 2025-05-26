@@ -1,7 +1,7 @@
 +++
 authors = ["Abhishek kumar Azad, Software Engineer and Technical Content Strategist"]
 date = "2025-05-26"
-title = "Accusoft: Powering Intelligent Document Workflows with Precision Tools"
+title = " "
 slug = "accusoft-document-sdk"
 tags = ["document processing", "SDK", "Accusoft", "OCR", "enterprise software"]
 externalLink = ""
@@ -99,7 +99,7 @@ Supports .NET and C/C++.
 
 ---
 
-#### 🔍 SmartZone – Zonal OCR/ICR Engine
+#### SmartZone – Zonal OCR/ICR Engine
 
 Extract targeted data from scanned documents like IDs and invoices.
 
@@ -215,7 +215,7 @@ Accusoft may not be a household name, but it powers mission-critical tools where
 
 ---
 
-### 🚀 Call to Action
+### Call to Action
 
 🔗 [Explore Accusoft Products](https://www.accusoft.com/products)  
 📥 [Request a Free Trial](https://www.accusoft.com/contact/)  
