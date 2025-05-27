@@ -2,7 +2,7 @@
 authors = ["Abhishek kumar Azad, Software Engineer and Technical Content Strategist"]
 date = "2025-05-26"
 title = " "
-slug = "accusoft-document-sdk"
+slug = "backblaze"
 tags = ["document processing", "SDK", "Accusoft", "OCR", "enterprise software"]
 externalLink = ""
 featuredImage = "/images/backblaze.gif"
