@@ -5,7 +5,7 @@ title = "Aerospike Database: Real-Time Performance at Petabyte Scale"
 slug = "aerospike-real-time-database"
 tags = ["aerospike", "database", "low-latency", "nosql", "real-time", "scalability"]
 externalLink = ""
-featuredImage = "/images/aerospike.gif"
+featuredImage = "/images/aerospike.jpeg"
 +++
 
 # Aerospike Database: Real-Time Performance at Petabyte Scale
