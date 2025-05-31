@@ -1,7 +1,7 @@
 +++
 authors = ["Abhishek Kumar Azad, Software Engineer and Technical Content Strategist"]
 date = "2025-05-29"
-title = "Aerospike Database: Real-Time Performance at Petabyte Scale"
+title = " "
 slug = "aerospike-real-time-database"
 tags = ["aerospike", "database", "low-latency", "nosql", "real-time", "scalability"]
 externalLink = ""
