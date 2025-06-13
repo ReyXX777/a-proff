@@ -2,7 +2,7 @@
 authors = ["Abhishek Kumar Azad, Software Engineer and Technical Content Strategist"]
 date = "2025-06-10"
 title = " "
-slug = "granola-ai--overview"
+slug = "granola-ai"
 tags = ["granola ai", "productivity", "meeting notes", "ai assistant", "privacy", "saas"]
 externalLink = " "
 featuredImage = "/images/granola.jpeg"
