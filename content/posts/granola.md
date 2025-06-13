@@ -4,7 +4,7 @@ date = "2025-06-10"
 title = " "
 slug = "granola-ai"
 tags = ["granola ai", "productivity", "meeting notes", "ai assistant", "privacy", "saas"]
-externalLink = " "
+externalLink = ""
 featuredImage = "/images/granola.jpeg"
 +++
 
