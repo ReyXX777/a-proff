@@ -216,7 +216,7 @@ downloadUrl = "https://www.dropbox.com/link-to-xxvault-installer"
 <div class="project-detail">
 
   <div class="project-hero">
-    <img src="/images/xxvault_hero.png" alt="XXVault app interface showing encrypted message and social media icons" />
+    <img src="/images/xxvaultx.jpeg" alt="XXVault app interface showing encrypted message and social media icons" />
   </div>
 
   <h1 class="project-title">XXVault – Secure Messenger App</h1>
