@@ -2,283 +2,654 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://abhishek-azad.site/tags/</link>
     <description>Recent content in Tags on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abhishek-azad.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Accusoft</title>
-      <link>http://localhost:1313/tags/accusoft/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/accusoft/</guid>
+      <title>Application-Monitoring</title>
+      <link>https://abhishek-azad.site/tags/application-monitoring/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/application-monitoring/</guid>
       <description></description>
     </item>
     <item>
-      <title>Document Processing</title>
-      <link>http://localhost:1313/tags/document-processing/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/document-processing/</guid>
+      <title>Appsignal</title>
+      <link>https://abhishek-azad.site/tags/appsignal/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/appsignal/</guid>
       <description></description>
     </item>
     <item>
-      <title>Enterprise Software</title>
-      <link>http://localhost:1313/tags/enterprise-software/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/enterprise-software/</guid>
+      <title>Devops</title>
+      <link>https://abhishek-azad.site/tags/devops/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/devops/</guid>
       <description></description>
     </item>
     <item>
-      <title>OCR</title>
-      <link>http://localhost:1313/tags/ocr/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ocr/</guid>
+      <title>Elixir</title>
+      <link>https://abhishek-azad.site/tags/elixir/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/elixir/</guid>
       <description></description>
     </item>
     <item>
-      <title>SDK</title>
-      <link>http://localhost:1313/tags/sdk/</link>
-      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sdk/</guid>
+      <title>Error-Tracking</title>
+      <link>https://abhishek-azad.site/tags/error-tracking/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/error-tracking/</guid>
       <description></description>
     </item>
     <item>
-      <title>DIY</title>
-      <link>http://localhost:1313/tags/diy/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/diy/</guid>
+      <title>Nodejs</title>
+      <link>https://abhishek-azad.site/tags/nodejs/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/nodejs/</guid>
       <description></description>
     </item>
     <item>
-      <title>Efficiency</title>
-      <link>http://localhost:1313/tags/efficiency/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hardware</title>
-      <link>http://localhost:1313/tags/hardware/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hardware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PC Building</title>
-      <link>http://localhost:1313/tags/pc-building/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pc-building/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Power Supply</title>
-      <link>http://localhost:1313/tags/power-supply/</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/power-supply/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Benchmark</title>
-      <link>http://localhost:1313/tags/benchmark/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/benchmark/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DOOM</title>
-      <link>http://localhost:1313/tags/doom/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/doom/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaming</title>
-      <link>http://localhost:1313/tags/gaming/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gaming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GPUs</title>
-      <link>http://localhost:1313/tags/gpus/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gpus/</guid>
+      <title>Observability</title>
+      <link>https://abhishek-azad.site/tags/observability/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/observability/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://localhost:1313/tags/performance/</link>
+      <link>https://abhishek-azad.site/tags/performance/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ruby</title>
+      <link>https://abhishek-azad.site/tags/ruby/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/ruby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software-Engineering</title>
+      <link>https://abhishek-azad.site/tags/software-engineering/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Akamai</title>
+      <link>https://abhishek-azad.site/tags/akamai/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/akamai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cdn</title>
+      <link>https://abhishek-azad.site/tags/cdn/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/cdn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://abhishek-azad.site/tags/cloud/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud-Security</title>
+      <link>https://abhishek-azad.site/tags/cloud-security/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/cloud-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://abhishek-azad.site/tags/cybersecurity/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge</title>
+      <link>https://abhishek-azad.site/tags/edge/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/edge/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Acceleration</title>
+      <link>https://abhishek-azad.site/tags/web-acceleration/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/web-acceleration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Performance</title>
+      <link>https://abhishek-azad.site/tags/web-performance/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/web-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ai Assistant</title>
+      <link>https://abhishek-azad.site/tags/ai-assistant/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/ai-assistant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Granola Ai</title>
+      <link>https://abhishek-azad.site/tags/granola-ai/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/granola-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meeting Notes</title>
+      <link>https://abhishek-azad.site/tags/meeting-notes/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/meeting-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://abhishek-azad.site/tags/privacy/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://abhishek-azad.site/tags/productivity/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saas</title>
+      <link>https://abhishek-azad.site/tags/saas/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/saas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Airtable</title>
+      <link>https://abhishek-azad.site/tags/airtable/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/airtable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://abhishek-azad.site/tags/automation/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Databases</title>
+      <link>https://abhishek-azad.site/tags/databases/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/databases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer-Tools</title>
+      <link>https://abhishek-azad.site/tags/developer-tools/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/developer-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nocode</title>
+      <link>https://abhishek-azad.site/tags/nocode/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/nocode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Startups</title>
+      <link>https://abhishek-azad.site/tags/startups/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/startups/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>https://abhishek-azad.site/tags/workflow/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/workflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agora</title>
+      <link>https://abhishek-azad.site/tags/agora/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/agora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>https://abhishek-azad.site/tags/audio/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Block</title>
+      <link>https://abhishek-azad.site/tags/block/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/block/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://abhishek-azad.site/tags/blockchain/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cashapp</title>
+      <link>https://abhishek-azad.site/tags/cashapp/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/cashapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crypto</title>
+      <link>https://abhishek-azad.site/tags/crypto/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/crypto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decentralization</title>
+      <link>https://abhishek-azad.site/tags/decentralization/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/decentralization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fintech</title>
+      <link>https://abhishek-azad.site/tags/fintech/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Livestreaming</title>
+      <link>https://abhishek-azad.site/tags/livestreaming/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/livestreaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-Time</title>
+      <link>https://abhishek-azad.site/tags/real-time/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/real-time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rtc</title>
+      <link>https://abhishek-azad.site/tags/rtc/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/rtc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SDK</title>
+      <link>https://abhishek-azad.site/tags/sdk/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/sdk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Square</title>
+      <link>https://abhishek-azad.site/tags/square/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/square/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video-Calling</title>
+      <link>https://abhishek-azad.site/tags/video-calling/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/video-calling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebRTC</title>
+      <link>https://abhishek-azad.site/tags/webrtc/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/webrtc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aerospike</title>
+      <link>https://abhishek-azad.site/tags/aerospike/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/aerospike/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API-First</title>
+      <link>https://abhishek-azad.site/tags/api-first/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/api-first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>https://abhishek-azad.site/tags/database/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Global Transactions</title>
+      <link>https://abhishek-azad.site/tags/global-transactions/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/global-transactions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Low-Latency</title>
+      <link>https://abhishek-azad.site/tags/low-latency/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/low-latency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nosql</title>
+      <link>https://abhishek-azad.site/tags/nosql/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/nosql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Payments</title>
+      <link>https://abhishek-azad.site/tags/payments/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/payments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scalability</title>
+      <link>https://abhishek-azad.site/tags/scalability/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/scalability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unified Commerce</title>
+      <link>https://abhishek-azad.site/tags/unified-commerce/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/unified-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accusoft</title>
+      <link>https://abhishek-azad.site/tags/accusoft/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/accusoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Document Processing</title>
+      <link>https://abhishek-azad.site/tags/document-processing/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/document-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enterprise Software</title>
+      <link>https://abhishek-azad.site/tags/enterprise-software/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/enterprise-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OCR</title>
+      <link>https://abhishek-azad.site/tags/ocr/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/ocr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DIY</title>
+      <link>https://abhishek-azad.site/tags/diy/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Efficiency</title>
+      <link>https://abhishek-azad.site/tags/efficiency/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://abhishek-azad.site/tags/hardware/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PC Building</title>
+      <link>https://abhishek-azad.site/tags/pc-building/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/pc-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Power Supply</title>
+      <link>https://abhishek-azad.site/tags/power-supply/</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/power-supply/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmark</title>
+      <link>https://abhishek-azad.site/tags/benchmark/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/performance/</guid>
+      <guid>https://abhishek-azad.site/tags/benchmark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DOOM</title>
+      <link>https://abhishek-azad.site/tags/doom/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/doom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming</title>
+      <link>https://abhishek-azad.site/tags/gaming/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPUs</title>
+      <link>https://abhishek-azad.site/tags/gpus/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/tags/gpus/</guid>
       <description></description>
     </item>
     <item>
       <title>Couples Therapy</title>
-      <link>http://localhost:1313/tags/couples-therapy/</link>
+      <link>https://abhishek-azad.site/tags/couples-therapy/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/couples-therapy/</guid>
+      <guid>https://abhishek-azad.site/tags/couples-therapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Health</title>
-      <link>http://localhost:1313/tags/mental-health/</link>
+      <link>https://abhishek-azad.site/tags/mental-health/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <guid>https://abhishek-azad.site/tags/mental-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Relationships</title>
-      <link>http://localhost:1313/tags/relationships/</link>
+      <link>https://abhishek-azad.site/tags/relationships/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/relationships/</guid>
+      <guid>https://abhishek-azad.site/tags/relationships/</guid>
       <description></description>
     </item>
     <item>
       <title>Therapy</title>
-      <link>http://localhost:1313/tags/therapy/</link>
+      <link>https://abhishek-azad.site/tags/therapy/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/therapy/</guid>
+      <guid>https://abhishek-azad.site/tags/therapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Brain Health</title>
-      <link>http://localhost:1313/tags/brain-health/</link>
+      <link>https://abhishek-azad.site/tags/brain-health/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brain-health/</guid>
+      <guid>https://abhishek-azad.site/tags/brain-health/</guid>
       <description></description>
     </item>
     <item>
       <title>Mental Wellness</title>
-      <link>http://localhost:1313/tags/mental-wellness/</link>
+      <link>https://abhishek-azad.site/tags/mental-wellness/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mental-wellness/</guid>
+      <guid>https://abhishek-azad.site/tags/mental-wellness/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Connections</title>
-      <link>http://localhost:1313/tags/social-connections/</link>
+      <link>https://abhishek-azad.site/tags/social-connections/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-connections/</guid>
+      <guid>https://abhishek-azad.site/tags/social-connections/</guid>
       <description></description>
     </item>
     <item>
       <title>Aging</title>
-      <link>http://localhost:1313/tags/aging/</link>
+      <link>https://abhishek-azad.site/tags/aging/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aging/</guid>
+      <guid>https://abhishek-azad.site/tags/aging/</guid>
       <description></description>
     </item>
     <item>
       <title>Harvard</title>
-      <link>http://localhost:1313/tags/harvard/</link>
+      <link>https://abhishek-azad.site/tags/harvard/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/harvard/</guid>
+      <guid>https://abhishek-azad.site/tags/harvard/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
+      <link>https://abhishek-azad.site/tags/health/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/health/</guid>
+      <guid>https://abhishek-azad.site/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Lifestyle</title>
-      <link>http://localhost:1313/tags/lifestyle/</link>
+      <link>https://abhishek-azad.site/tags/lifestyle/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <guid>https://abhishek-azad.site/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Wellness</title>
-      <link>http://localhost:1313/tags/wellness/</link>
+      <link>https://abhishek-azad.site/tags/wellness/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wellness/</guid>
+      <guid>https://abhishek-azad.site/tags/wellness/</guid>
       <description></description>
     </item>
     <item>
       <title>Coping</title>
-      <link>http://localhost:1313/tags/coping/</link>
+      <link>https://abhishek-azad.site/tags/coping/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/coping/</guid>
+      <guid>https://abhishek-azad.site/tags/coping/</guid>
       <description></description>
     </item>
     <item>
       <title>Resilience</title>
-      <link>http://localhost:1313/tags/resilience/</link>
+      <link>https://abhishek-azad.site/tags/resilience/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/resilience/</guid>
+      <guid>https://abhishek-azad.site/tags/resilience/</guid>
       <description></description>
     </item>
     <item>
       <title>Stress</title>
-      <link>http://localhost:1313/tags/stress/</link>
+      <link>https://abhishek-azad.site/tags/stress/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stress/</guid>
+      <guid>https://abhishek-azad.site/tags/stress/</guid>
       <description></description>
     </item>
     <item>
       <title>AI in Healthcare</title>
-      <link>http://localhost:1313/tags/ai-in-healthcare/</link>
+      <link>https://abhishek-azad.site/tags/ai-in-healthcare/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-in-healthcare/</guid>
+      <guid>https://abhishek-azad.site/tags/ai-in-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>ChatGPT</title>
-      <link>http://localhost:1313/tags/chatgpt/</link>
+      <link>https://abhishek-azad.site/tags/chatgpt/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chatgpt/</guid>
+      <guid>https://abhishek-azad.site/tags/chatgpt/</guid>
       <description></description>
     </item>
     <item>
       <title>Doctor vs AI</title>
-      <link>http://localhost:1313/tags/doctor-vs-ai/</link>
+      <link>https://abhishek-azad.site/tags/doctor-vs-ai/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/doctor-vs-ai/</guid>
+      <guid>https://abhishek-azad.site/tags/doctor-vs-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Empathy</title>
-      <link>http://localhost:1313/tags/empathy/</link>
+      <link>https://abhishek-azad.site/tags/empathy/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/empathy/</guid>
+      <guid>https://abhishek-azad.site/tags/empathy/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Advice</title>
-      <link>http://localhost:1313/tags/medical-advice/</link>
+      <link>https://abhishek-azad.site/tags/medical-advice/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/medical-advice/</guid>
+      <guid>https://abhishek-azad.site/tags/medical-advice/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/tags/css/</link>
+      <link>https://abhishek-azad.site/tags/css/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/css/</guid>
+      <guid>https://abhishek-azad.site/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/tags/html/</link>
+      <link>https://abhishek-azad.site/tags/html/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/html/</guid>
+      <guid>https://abhishek-azad.site/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://abhishek-azad.site/tags/hugo/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://abhishek-azad.site/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://abhishek-azad.site/tags/markdown/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://abhishek-azad.site/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

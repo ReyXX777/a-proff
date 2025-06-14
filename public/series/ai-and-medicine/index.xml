@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI and Medicine on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/series/ai-and-medicine/</link>
+    <link>https://abhishek-azad.site/series/ai-and-medicine/</link>
     <description>Recent content in AI and Medicine on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/ai-and-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishek-azad.site/series/ai-and-medicine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Can AI Answer Medical Questions Better Than Your Doctor?</title>
-      <link>http://localhost:1313/posts/html-and-css-only-tabs/</link>
+      <link>https://abhishek-azad.site/posts/html-and-css-only-tabs/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/html-and-css-only-tabs/</guid>
+      <guid>https://abhishek-azad.site/posts/html-and-css-only-tabs/</guid>
       <description>&lt;p&gt;Last year, headlines describing a study about artificial intelligence (AI) were eye-catching, to say the least:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;ChatGPT Rated as Better Than Real Doctors for Empathy, Advice&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;The AI will see you now: ChatGPT provides higher quality answers and is more empathetic than a real doctor, study finds&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Is AI Better Than A Doctor? ChatGPT Outperforms Physicians In Compassion And Quality Of Advice&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;At first glance, the idea that a chatbot using AI might be able to generate good answers to patient questions isn&amp;rsquo;t surprising. After all, ChatGPT boasts that it passed a final exam for a Wharton MBA, wrote a book in a few hours, and composed original music.&lt;/p&gt;&#xA;&lt;p&gt;But showing more empathy than your doctor? Ouch. Before assigning final honors on quality and empathy to either side, let&amp;rsquo;s take a second look.&lt;/p&gt;</description>
     </item>
   </channel>

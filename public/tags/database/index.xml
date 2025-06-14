@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on Abhishek kumar Azad</title>
+    <link>https://abhishek-azad.site/tags/database/</link>
+    <description>Recent content in Database on Abhishek kumar Azad</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abhishek-azad.site/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/aerospike-real-time-database/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/aerospike-real-time-database/</guid>
+      <description>&lt;h1 id=&#34;aerospike-database-real-time-performance-at-petabyte-scale&#34;&gt;&#xD;&#xA;  Aerospike Database: Real-Time Performance at Petabyte Scale&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#aerospike-database-real-time-performance-at-petabyte-scale&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In today’s digital-first economy, where users expect instantaneous results and enterprises process billions of transactions per day, latency is not a luxury—it’s a liability. Traditional database systems struggle to maintain low latency under heavy loads, especially when data scales into the terabyte and petabyte ranges. Applications that power fraud detection, ad targeting, recommendation engines, and financial systems require more than just fast reads—they demand predictability, high availability, and seamless scalability.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

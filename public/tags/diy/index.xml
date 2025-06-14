@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DIY on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/tags/diy/</link>
+    <link>https://abhishek-azad.site/tags/diy/</link>
     <description>Recent content in DIY on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishek-azad.site/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Choose the Right Power Supply for Your PC</title>
-      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <link>https://abhishek-azad.site/posts/markdown-syntax/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <guid>https://abhishek-azad.site/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;When you’re preparing to build a new PC, the first topics on your mind are likely powerful multi-core processors, fancy high-end graphics cards, ultra-fast NVMe storage, or maybe even unique case lighting and effects. But one component that often fails to get the attention it deserves is the power supply. After all, virtually every other component in your PC can be affected by the type, quality, and capabilities of your PSU.&lt;/p&gt;&#xA;&lt;p&gt;That makes the process of choosing the right power supply just as important as any other component. Therefore, here’s a quick high-level overview of the factors you should consider when looking at power supplies for your next PC build.&lt;/p&gt;</description>
     </item>
   </channel>

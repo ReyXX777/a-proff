@@ -2,481 +2,670 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>https://abhishek-azad.site/posts/appsignal-fullstack-monitoring/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://abhishek-azad.site/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://abhishek-azad.site/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/abhishek-kumar-azad-software-engineer-and-technical-content-strategist/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>https://abhishek-azad.site/authors/abhishek-kumar-azad-software-engineer-and-technical-content-strategist/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/accusoft/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>https://abhishek-azad.site/tags/application-monitoring/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/accusoft-document-sdk/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>https://abhishek-azad.site/tags/appsignal/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+    <loc>https://abhishek-azad.site/authors/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/authors/"
+                href="https://abhishek-azad.site/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/"
+                href="https://abhishek-azad.site/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/document-processing/</loc>
+    <loc>https://abhishek-azad.site/tags/devops/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/elixir/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/error-tracking/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/nodejs/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/observability/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/performance/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://abhishek-azad.site/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abhishek-azad.site/posts/"
+                />
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/ruby/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/software-engineering/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://abhishek-azad.site/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abhishek-azad.site/tags/"
+                />
+  </url><url>
+    <loc>https://abhishek-azad.site/projects/project16/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/akamai-edge-cloud-security/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/akamai/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/cdn/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/cloud/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/cloud-security/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/cybersecurity/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/edge/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/web-acceleration/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/web-performance/</loc>
+    <lastmod>2025-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/granola-ai/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/ai-assistant/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/granola-ai/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/meeting-notes/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/privacy/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/productivity/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/saas/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/airtable-modern-database/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/airtable/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/automation/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/databases/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/developer-tools/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/nocode/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/startups/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/workflow/</loc>
+    <lastmod>2025-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/agora-real-time-audio-video/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/block-inc-fintech-ecosystem/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/agora/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/audio/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/block/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/blockchain/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/cashapp/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/crypto/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/decentralization/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/fintech/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/livestreaming/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/real-time/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/rtc/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/sdk/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/square/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/video-calling/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/webrtc/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/adyen-unified-payments/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/aerospike-real-time-database/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/aerospike/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/api-first/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/database/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/global-transactions/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/low-latency/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/nosql/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/payments/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/scalability/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/tags/unified-commerce/</loc>
+    <lastmod>2025-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/posts/accusoft-document-sdk/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/enterprise-software/</loc>
+    <loc>https://abhishek-azad.site/posts/backblaze/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ocr/</loc>
+    <loc>https://abhishek-azad.site/tags/accusoft/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/sdk/</loc>
+    <loc>https://abhishek-azad.site/tags/document-processing/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://abhishek-azad.site/tags/enterprise-software/</loc>
     <lastmod>2025-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://abhishek-azad.site/tags/ocr/</loc>
+    <lastmod>2025-05-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abhishek-azad.site/about/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/about/"
+                href="https://abhishek-azad.site/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://abhishek-azad.site/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://abhishek-azad.site/categories/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://abhishek-azad.site/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://abhishek-azad.site/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/diy/</loc>
+    <loc>https://abhishek-azad.site/tags/diy/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/efficiency/</loc>
+    <loc>https://abhishek-azad.site/tags/efficiency/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hardware/</loc>
+    <loc>https://abhishek-azad.site/tags/hardware/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hardware-guide/</loc>
+    <loc>https://abhishek-azad.site/categories/hardware-guide/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/markdown-syntax/</loc>
+    <loc>https://abhishek-azad.site/posts/markdown-syntax/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/markdown-syntax/"
+                href="https://abhishek-azad.site/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/markdown-syntax/"
+                href="https://abhishek-azad.site/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/pc-building/</loc>
+    <loc>https://abhishek-azad.site/tags/pc-building/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/pc-building-essentials/</loc>
+    <loc>https://abhishek-azad.site/series/pc-building-essentials/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/pc-builds/</loc>
+    <loc>https://abhishek-azad.site/categories/pc-builds/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/power-supply/</loc>
+    <loc>https://abhishek-azad.site/tags/power-supply/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://abhishek-azad.site/series/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
+                href="https://abhishek-azad.site/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://abhishek-azad.site/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/tech-insight-editorial-team/</loc>
+    <loc>https://abhishek-azad.site/authors/tech-insight-editorial-team/</loc>
     <lastmod>2025-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/benchmark/</loc>
+    <loc>https://abhishek-azad.site/tags/benchmark/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/doom/</loc>
+    <loc>https://abhishek-azad.site/tags/doom/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/emoji-support/</loc>
+    <loc>https://abhishek-azad.site/posts/emoji-support/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/emoji-support/"
+                href="https://abhishek-azad.site/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/emoji-support/"
+                href="https://abhishek-azad.site/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/game-performance/</loc>
+    <loc>https://abhishek-azad.site/categories/game-performance/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gaming/</loc>
+    <loc>https://abhishek-azad.site/tags/gaming/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/gpu-benchmarks/</loc>
+    <loc>https://abhishek-azad.site/series/gpu-benchmarks/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gpus/</loc>
+    <loc>https://abhishek-azad.site/tags/gpus/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hardware/</loc>
+    <loc>https://abhishek-azad.site/categories/hardware/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/lone-coder/</loc>
+    <loc>https://abhishek-azad.site/authors/lone-coder/</loc>
     <lastmod>2025-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/performance/</loc>
-    <lastmod>2025-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/project15/</loc>
+    <loc>https://abhishek-azad.site/projects/project15/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-nine/</loc>
+    <loc>https://abhishek-azad.site/projects/project-nine/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project12/</loc>
+    <loc>https://abhishek-azad.site/projects/project12/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-five/</loc>
+    <loc>https://abhishek-azad.site/projects/project-five/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project14/</loc>
+    <loc>https://abhishek-azad.site/projects/project14/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project13/</loc>
+    <loc>https://abhishek-azad.site/projects/project13/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-six/</loc>
+    <loc>https://abhishek-azad.site/projects/project-six/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-one/</loc>
+    <loc>https://abhishek-azad.site/projects/project-one/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/more-rich-content/</loc>
+    <loc>https://abhishek-azad.site/posts/more-rich-content/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/couples-therapy/</loc>
+    <loc>https://abhishek-azad.site/tags/couples-therapy/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health/</loc>
+    <loc>https://abhishek-azad.site/categories/health/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/jenette-restivo-health-writer-assistant-director-for-digital-content-creation-and-engagement-harvard-health-publishing/</loc>
+    <loc>https://abhishek-azad.site/authors/jenette-restivo-health-writer-assistant-director-for-digital-content-creation-and-engagement-harvard-health-publishing/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mental-health/</loc>
+    <loc>https://abhishek-azad.site/tags/mental-health/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/psychology/</loc>
+    <loc>https://abhishek-azad.site/categories/psychology/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/relationships/</loc>
+    <loc>https://abhishek-azad.site/tags/relationships/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/relationships/</loc>
+    <loc>https://abhishek-azad.site/series/relationships/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/therapy/</loc>
+    <loc>https://abhishek-azad.site/tags/therapy/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-seven/</loc>
+    <loc>https://abhishek-azad.site/projects/project-seven/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://abhishek-azad.site/projects/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/projects/"
+                href="https://abhishek-azad.site/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/projects/"
+                href="https://abhishek-azad.site/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/project-four/</loc>
+    <loc>https://abhishek-azad.site/projects/project-four/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-two/</loc>
+    <loc>https://abhishek-azad.site/projects/project-two/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-three/</loc>
+    <loc>https://abhishek-azad.site/projects/project-three/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/placeholder-text/</loc>
+    <loc>https://abhishek-azad.site/posts/placeholder-text/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brain-health/</loc>
+    <loc>https://abhishek-azad.site/tags/brain-health/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/kelly-bilodeau-former-executive-editor-harvard-womens-health-watch/</loc>
+    <loc>https://abhishek-azad.site/authors/kelly-bilodeau-former-executive-editor-harvard-womens-health-watch/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mental-wellness/</loc>
+    <loc>https://abhishek-azad.site/tags/mental-wellness/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/social-connections/</loc>
+    <loc>https://abhishek-azad.site/tags/social-connections/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aging/</loc>
+    <loc>https://abhishek-azad.site/tags/aging/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/aging-well/</loc>
+    <loc>https://abhishek-azad.site/categories/aging-well/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/harvard/</loc>
+    <loc>https://abhishek-azad.site/tags/harvard/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/health/</loc>
+    <loc>https://abhishek-azad.site/tags/health/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health-advice/</loc>
+    <loc>https://abhishek-azad.site/categories/health-advice/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lifestyle/</loc>
+    <loc>https://abhishek-azad.site/tags/lifestyle/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/matthew-solan/</loc>
+    <loc>https://abhishek-azad.site/authors/matthew-solan/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rich-content/</loc>
+    <loc>https://abhishek-azad.site/posts/rich-content/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wellness/</loc>
+    <loc>https://abhishek-azad.site/tags/wellness/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/resilience-strategies/</loc>
+    <loc>https://abhishek-azad.site/posts/resilience-strategies/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/hugo-coder-wiki/"
+                href="https://abhishek-azad.site/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/resilience-strategies/"
+                href="https://abhishek-azad.site/posts/resilience-strategies/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/coping/</loc>
+    <loc>https://abhishek-azad.site/tags/coping/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/heidi-godman-executive-editor-harvard-health-letter/</loc>
+    <loc>https://abhishek-azad.site/authors/heidi-godman-executive-editor-harvard-health-letter/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/resilience/</loc>
+    <loc>https://abhishek-azad.site/tags/resilience/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stress/</loc>
+    <loc>https://abhishek-azad.site/tags/stress/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/ai-and-medicine/</loc>
+    <loc>https://abhishek-azad.site/series/ai-and-medicine/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ai-in-healthcare/</loc>
+    <loc>https://abhishek-azad.site/tags/ai-in-healthcare/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/html-and-css-only-tabs/</loc>
+    <loc>https://abhishek-azad.site/posts/html-and-css-only-tabs/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/chatgpt/</loc>
+    <loc>https://abhishek-azad.site/tags/chatgpt/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/doctor-vs-ai/</loc>
+    <loc>https://abhishek-azad.site/tags/doctor-vs-ai/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/empathy/</loc>
+    <loc>https://abhishek-azad.site/tags/empathy/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/health-tech/</loc>
+    <loc>https://abhishek-azad.site/categories/health-tech/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medical-advice/</loc>
+    <loc>https://abhishek-azad.site/tags/medical-advice/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/medical-research/</loc>
+    <loc>https://abhishek-azad.site/categories/medical-research/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/robert-h.-shmerling-md/</loc>
+    <loc>https://abhishek-azad.site/authors/robert-h.-shmerling-md/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://abhishek-azad.site/tags/css/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/css/"
+                href="https://abhishek-azad.site/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/css/"
+                href="https://abhishek-azad.site/tags/css/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://abhishek-azad.site/tags/html/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/html/"
+                href="https://abhishek-azad.site/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/html/"
+                href="https://abhishek-azad.site/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://abhishek-azad.site/tags/hugo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/hugo/"
+                href="https://abhishek-azad.site/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/hugo/"
+                href="https://abhishek-azad.site/tags/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://abhishek-azad.site/tags/markdown/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/markdown/"
+                href="https://abhishek-azad.site/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/markdown/"
+                href="https://abhishek-azad.site/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/math-typesetting/</loc>
+    <loc>https://abhishek-azad.site/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/math-typesetting/"
+                href="https://abhishek-azad.site/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/math-typesetting/"
+                href="https://abhishek-azad.site/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>https://abhishek-azad.site/categories/syntax/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categoria/sintaxe/"
+                href="https://abhishek-azad.site/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/syntax/"
+                href="https://abhishek-azad.site/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/theme-demo/</loc>
+    <loc>https://abhishek-azad.site/series/theme-demo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/theme-demo/</loc>
+    <loc>https://abhishek-azad.site/categories/theme-demo/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mermaid-support/</loc>
+    <loc>https://abhishek-azad.site/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/hugo-authors/</loc>
+    <loc>https://abhishek-azad.site/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
+                href="https://abhishek-azad.site/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/hugo-authors/"
+                href="https://abhishek-azad.site/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://abhishek-azad.site/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/contact/"
+                href="https://abhishek-azad.site/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/contact/"
+                href="https://abhishek-azad.site/contact/"
                 />
   </url>
 </urlset>

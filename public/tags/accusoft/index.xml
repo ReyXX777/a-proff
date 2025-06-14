@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accusoft on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/tags/accusoft/</link>
+    <link>https://abhishek-azad.site/tags/accusoft/</link>
     <description>Recent content in Accusoft on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/accusoft/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishek-azad.site/tags/accusoft/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Accusoft: Powering Intelligent Document Workflows with Precision Tools</title>
-      <link>http://localhost:1313/posts/accusoft-document-sdk/</link>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/accusoft-document-sdk/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/accusoft-document-sdk/</guid>
+      <guid>https://abhishek-azad.site/posts/accusoft-document-sdk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Accusoft: Powering Intelligent Document Workflows with Precision Tools&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Revolutionizing the way businesses process, manage, and view documents—one SDK at a time&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Reviewed by [Optional Reviewer], Document Technology Expert&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;introduction-document-workflows-are-brokenaccusoft-fixes-that&#34;&gt;&#xD;&#xA;  Introduction: Document Workflows Are Broken—Accusoft Fixes That&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction-document-workflows-are-brokenaccusoft-fixes-that&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Every enterprise—from legal firms to hospitals—struggles with one core challenge: handling documents efficiently. Whether it&amp;rsquo;s OCR errors, clunky PDF viewers, or integrating image processing into legacy systems, most solutions are either incomplete or overly complex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/backblaze/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/backblaze/</guid>
+      <description>&lt;h1 id=&#34;real-world-use-cases-of-backblaze-b2--personal-backup&#34;&gt;&#xD;&#xA;  Real-World Use Cases of Backblaze B2 &amp;amp; Personal Backup&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#real-world-use-cases-of-backblaze-b2--personal-backup&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;1-freelancer-backup-setup&#34;&gt;&#xD;&#xA;  1. Freelancer Backup Setup&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-freelancer-backup-setup&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A graphic designer uses Backblaze to back up large Adobe Photoshop files in real time.&lt;br&gt;&#xA;&lt;strong&gt;Why&lt;/strong&gt;: A disk crash corrupted her local files, but Backblaze restored everything within minutes using the personal backup client.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-b2--rclone-for-linux-admins&#34;&gt;&#xD;&#xA;  2. B2 + &lt;code&gt;rclone&lt;/code&gt; for Linux Admins&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2-b2--rclone-for-linux-admins&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Use case&lt;/strong&gt;: Daily backup of &lt;code&gt;/var/backups&lt;/code&gt; to B2.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

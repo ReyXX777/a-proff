@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://abhishek-azad.site/series/</link>
     <description>Recent content in Series on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://abhishek-azad.site/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PC Building Essentials</title>
-      <link>http://localhost:1313/series/pc-building-essentials/</link>
+      <link>https://abhishek-azad.site/series/pc-building-essentials/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/pc-building-essentials/</guid>
+      <guid>https://abhishek-azad.site/series/pc-building-essentials/</guid>
       <description></description>
     </item>
     <item>
       <title>GPU Benchmarks</title>
-      <link>http://localhost:1313/series/gpu-benchmarks/</link>
+      <link>https://abhishek-azad.site/series/gpu-benchmarks/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/gpu-benchmarks/</guid>
+      <guid>https://abhishek-azad.site/series/gpu-benchmarks/</guid>
       <description></description>
     </item>
     <item>
       <title>Relationships</title>
-      <link>http://localhost:1313/series/relationships/</link>
+      <link>https://abhishek-azad.site/series/relationships/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/relationships/</guid>
+      <guid>https://abhishek-azad.site/series/relationships/</guid>
       <description></description>
     </item>
     <item>
       <title>AI and Medicine</title>
-      <link>http://localhost:1313/series/ai-and-medicine/</link>
+      <link>https://abhishek-azad.site/series/ai-and-medicine/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/ai-and-medicine/</guid>
+      <guid>https://abhishek-azad.site/series/ai-and-medicine/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>http://localhost:1313/series/theme-demo/</link>
+      <link>https://abhishek-azad.site/series/theme-demo/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/series/theme-demo/</guid>
+      <guid>https://abhishek-azad.site/series/theme-demo/</guid>
       <description></description>
     </item>
   </channel>

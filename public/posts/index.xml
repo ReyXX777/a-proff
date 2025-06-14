@@ -2,80 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Abhishek kumar Azad</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://abhishek-azad.site/posts/</link>
     <description>Recent content in Posts on Abhishek kumar Azad</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://abhishek-azad.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Accusoft: Powering Intelligent Document Workflows with Precision Tools</title>
-      <link>http://localhost:1313/posts/accusoft-document-sdk/</link>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/appsignal-fullstack-monitoring/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/appsignal-fullstack-monitoring/</guid>
+      <description>&lt;h1 id=&#34;appsignal-full-stack-application-monitoring-made-simple-for-developers&#34;&gt;&#xD;&#xA;  AppSignal: Full-Stack Application Monitoring Made Simple for Developers&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#appsignal-full-stack-application-monitoring-made-simple-for-developers&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Modern software teams are under growing pressure to deliver fast, reliable, and error-free applications. As systems scale, debugging issues, monitoring performance, and tracking errors across multiple services becomes increasingly complex. Traditional monitoring tools are often too noisy, too complicated, or not developer-friendly.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;AppSignal&lt;/strong&gt; steps in to solve that. It’s a full-stack monitoring solution built specifically for developers who value simplicity, usability, and powerful insights. Whether you&amp;rsquo;re debugging a memory leak in production or diagnosing slow web transactions, AppSignal offers one unified platform to stay ahead of issues before your users notice.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/akamai-edge-cloud-security/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/akamai-edge-cloud-security/</guid>
+      <description>&lt;h1 id=&#34;akamai-technologies-delivering-performance-security-and-scale-at-the-edge&#34;&gt;&#xD;&#xA;  Akamai Technologies: Delivering Performance, Security, and Scale at the Edge&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#akamai-technologies-delivering-performance-security-and-scale-at-the-edge&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the age of hyperconnectivity and instant access, web performance and digital security are critical pillars for any organization delivering services online. The modern internet is increasingly powered by edge computing, requiring faster content delivery, real-time responsiveness, and robust defense mechanisms against evolving cyber threats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/granola-ai/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/granola-ai/</guid>
+      <description>&lt;h1 id=&#34;granola-ai-notepad-revolutionizing-meeting-productivity&#34;&gt;&#xD;&#xA;  Granola AI Notepad: Revolutionizing Meeting Productivity&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#granola-ai-notepad-revolutionizing-meeting-productivity&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In today’s hybrid work environment, capturing clear, actionable meeting notes can be overwhelming. Fragmented information, manual transcription, and privacy concerns often undermine the value of team discussions. &lt;strong&gt;Granola AI Notepad&lt;/strong&gt; offers an intelligent, privacy-focused solution that transforms how teams document, organize, and act on meeting insights.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;problem-statement-the-meeting-note-dilemma&#34;&gt;&#xD;&#xA;  Problem Statement: The Meeting Note Dilemma&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#problem-statement-the-meeting-note-dilemma&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Teams juggling multiple calls, brainstorming sessions, and decision checkpoints face:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/airtable-modern-database/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/airtable-modern-database/</guid>
+      <description>&lt;h1 id=&#34;mastering-airtable-the-modern-database-for-teams-creators-and-developers&#34;&gt;&#xD;&#xA;  Mastering Airtable: The Modern Database for Teams, Creators, and Developers&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#mastering-airtable-the-modern-database-for-teams-creators-and-developers&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the age of remote work, rapid product cycles, and cross-functional teams, traditional spreadsheets and rigid databases often become bottlenecks. Managing complex workflows across departments like marketing, engineering, operations, and product requires a tool that is &lt;strong&gt;flexible, visual, and collaborative&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Enter &lt;strong&gt;Airtable&lt;/strong&gt; — a hybrid between a spreadsheet and a database, designed for &lt;strong&gt;modern teams and builders&lt;/strong&gt; who need to organize, automate, and scale their work without writing a line of backend code.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/agora-real-time-audio-video/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/agora-real-time-audio-video/</guid>
+      <description>&lt;h1 id=&#34;agora-powering-real-time-engagement-with-scalable-audiovideo-infrastructure&#34;&gt;&#xD;&#xA;  Agora: Powering Real-Time Engagement with Scalable Audio/Video Infrastructure&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#agora-powering-real-time-engagement-with-scalable-audiovideo-infrastructure&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In a hyperconnected world where video calls, virtual events, and interactive live streams are now default modes of communication, building real-time engagement features into applications is no longer optional—it’s essential. But crafting low-latency, globally scalable audio and video pipelines is an engineering mountain few companies can climb alone.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/block-inc-fintech-ecosystem/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/block-inc-fintech-ecosystem/</guid>
+      <description>&lt;h1 id=&#34;block-inc-the-fintech-powerhouse-behind-square-cash-app-and-decentralized-innovation&#34;&gt;&#xD;&#xA;  Block, Inc.: The Fintech Powerhouse Behind Square, Cash App, and Decentralized Innovation&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#block-inc-the-fintech-powerhouse-behind-square-cash-app-and-decentralized-innovation&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In the fast-evolving world of digital finance, very few companies have reshaped the ecosystem with the breadth, innovation, and long-term vision that &lt;strong&gt;Block, Inc.&lt;/strong&gt; has. Formerly known as Square, Block has grown from a single mobile payments solution into a &lt;strong&gt;multi-vertical fintech empire&lt;/strong&gt;, powering small businesses, peer-to-peer payments, decentralized networks, music streaming monetization, and Bitcoin infrastructure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/adyen-unified-payments/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/adyen-unified-payments/</guid>
+      <description>&lt;h1 id=&#34;adyens-unified-payments-platform-streamlining-global-transactions-for-modern-businesses&#34;&gt;&#xD;&#xA;  Adyen&amp;rsquo;s Unified Payments Platform: Streamlining Global Transactions for Modern Businesses&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#adyens-unified-payments-platform-streamlining-global-transactions-for-modern-businesses&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In today&amp;rsquo;s rapidly evolving digital economy, businesses face the challenge of managing diverse payment methods across multiple channels and geographies. Traditional payment systems often involve fragmented solutions, leading to inefficiencies and increased operational complexities.&lt;/p&gt;&#xA;&lt;p&gt;Enter &lt;strong&gt;Adyen&lt;/strong&gt;—a comprehensive, end-to-end payments platform designed to simplify and optimize the payment process for businesses worldwide. By consolidating various payment services into a single solution, Adyen empowers companies to enhance customer experiences, improve operational efficiency, and drive global growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/aerospike-real-time-database/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/aerospike-real-time-database/</guid>
+      <description>&lt;h1 id=&#34;aerospike-database-real-time-performance-at-petabyte-scale&#34;&gt;&#xD;&#xA;  Aerospike Database: Real-Time Performance at Petabyte Scale&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#aerospike-database-real-time-performance-at-petabyte-scale&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In today’s digital-first economy, where users expect instantaneous results and enterprises process billions of transactions per day, latency is not a luxury—it’s a liability. Traditional database systems struggle to maintain low latency under heavy loads, especially when data scales into the terabyte and petabyte ranges. Applications that power fraud detection, ad targeting, recommendation engines, and financial systems require more than just fast reads—they demand predictability, high availability, and seamless scalability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/accusoft-document-sdk/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/accusoft-document-sdk/</guid>
+      <guid>https://abhishek-azad.site/posts/accusoft-document-sdk/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Accusoft: Powering Intelligent Document Workflows with Precision Tools&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Revolutionizing the way businesses process, manage, and view documents—one SDK at a time&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Reviewed by [Optional Reviewer], Document Technology Expert&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;introduction-document-workflows-are-brokenaccusoft-fixes-that&#34;&gt;&#xD;&#xA;  Introduction: Document Workflows Are Broken—Accusoft Fixes That&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction-document-workflows-are-brokenaccusoft-fixes-that&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;Every enterprise—from legal firms to hospitals—struggles with one core challenge: handling documents efficiently. Whether it&amp;rsquo;s OCR errors, clunky PDF viewers, or integrating image processing into legacy systems, most solutions are either incomplete or overly complex.&lt;/p&gt;</description>
     </item>
     <item>
+      <title> </title>
+      <link>https://abhishek-azad.site/posts/backblaze/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://abhishek-azad.site/posts/backblaze/</guid>
+      <description>&lt;h1 id=&#34;real-world-use-cases-of-backblaze-b2--personal-backup&#34;&gt;&#xD;&#xA;  Real-World Use Cases of Backblaze B2 &amp;amp; Personal Backup&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#real-world-use-cases-of-backblaze-b2--personal-backup&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;1-freelancer-backup-setup&#34;&gt;&#xD;&#xA;  1. Freelancer Backup Setup&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-freelancer-backup-setup&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Scenario&lt;/strong&gt;: A graphic designer uses Backblaze to back up large Adobe Photoshop files in real time.&lt;br&gt;&#xA;&lt;strong&gt;Why&lt;/strong&gt;: A disk crash corrupted her local files, but Backblaze restored everything within minutes using the personal backup client.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-b2--rclone-for-linux-admins&#34;&gt;&#xD;&#xA;  2. B2 + &lt;code&gt;rclone&lt;/code&gt; for Linux Admins&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2-b2--rclone-for-linux-admins&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Use case&lt;/strong&gt;: Daily backup of &lt;code&gt;/var/backups&lt;/code&gt; to B2.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>How to Choose the Right Power Supply for Your PC</title>
-      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <link>https://abhishek-azad.site/posts/markdown-syntax/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <guid>https://abhishek-azad.site/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;When you’re preparing to build a new PC, the first topics on your mind are likely powerful multi-core processors, fancy high-end graphics cards, ultra-fast NVMe storage, or maybe even unique case lighting and effects. But one component that often fails to get the attention it deserves is the power supply. After all, virtually every other component in your PC can be affected by the type, quality, and capabilities of your PSU.&lt;/p&gt;&#xA;&lt;p&gt;That makes the process of choosing the right power supply just as important as any other component. Therefore, here’s a quick high-level overview of the factors you should consider when looking at power supplies for your next PC build.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DOOM The Dark Ages Tested: 13 GPUs Benchmarked To Hell And Back</title>
-      <link>http://localhost:1313/posts/emoji-support/</link>
+      <link>https://abhishek-azad.site/posts/emoji-support/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <guid>https://abhishek-azad.site/posts/emoji-support/</guid>
       <description>&lt;p&gt;DOOM is back—and it&amp;rsquo;s never looked meaner. &lt;strong&gt;DOOM The Dark Ages&lt;/strong&gt; is the latest installment in Id Software&amp;rsquo;s iconic franchise, bringing a brutal blend of medieval mayhem and modern firepower. Powered by the &lt;strong&gt;id Tech 8 engine&lt;/strong&gt;, this entry trades Mars for dark fantasy while keeping the brutal combat, metal soundtrack, and silky-smooth performance that DOOM is known for.&lt;/p&gt;&#xA;&lt;p&gt;Naturally, we had to see how it runs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Could couples therapy be right for you?</title>
-      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <link>https://abhishek-azad.site/posts/more-rich-content/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <guid>https://abhishek-azad.site/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Marriage can be one of life&amp;rsquo;s greatest joys, but it&amp;rsquo;s no secret that staying together takes work. For couples looking to strengthen their bond or navigate challenges, therapy can offer a path toward deeper connection and understanding.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-couples-therapy&#34;&gt;&#xD;&#xA;  What is couples therapy?&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-is-couples-therapy&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Couples therapy is a form of counseling that involves both partners in a relationship. This form of therapy is provided by a licensed therapist who is trained to help couples resolve conflicts they are experiencing. Couples therapy for married couples may be called marital therapy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>3 ways to build brain-boosting social connections</title>
-      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <link>https://abhishek-azad.site/posts/placeholder-text/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <guid>https://abhishek-azad.site/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Mind &amp;amp; Mood&lt;br&gt;&#xA;3 ways to build brain-boosting social connections&lt;br&gt;&#xA;September 27, 2024&lt;br&gt;&#xA;By Kelly Bilodeau, Former Executive Editor, Harvard Women&amp;rsquo;s Health Watch&lt;br&gt;&#xA;Reviewed by Howard E. LeWine, MD, Chief Medical Editor, Harvard Health Publishing; Editorial Advisory Board Member, Harvard Health Publishing&lt;/p&gt;&#xA;&lt;p&gt;Two smiling women on a walk together outdoors, they&amp;rsquo;re holding umbrellas&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;re careful about your diet. You exercise diligently and try to get enough sleep each night. But you may have forgotten to add one ingredient for a healthy body and brain to your list: a good social life.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Staying Healthy</title>
-      <link>http://localhost:1313/posts/rich-content/</link>
+      <link>https://abhishek-azad.site/posts/rich-content/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <guid>https://abhishek-azad.site/posts/rich-content/</guid>
       <description>&lt;p&gt;Living your best life&lt;br&gt;&#xA;Two Harvard doctors in their 70s and 80s share their wisdom about how to make the most of your remaining years.&lt;br&gt;&#xA;August 1, 2024&lt;br&gt;&#xA;By Matthew Solan, Executive Editor, Harvard Men&amp;rsquo;s Health Watch&lt;br&gt;&#xA;Reviewed by Howard E. LeWine, MD, Chief Medical Editor, Harvard Health Publishing; Editorial Advisory Board Member, Harvard Health Publishing&lt;/p&gt;&#xA;&lt;p&gt;photo of a senior man on a hike standing with his arms outstretched, celebrating the experience and being in the outdoors&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build Your Own Resilience Plan</title>
-      <link>http://localhost:1313/posts/resilience-strategies/</link>
+      <link>https://abhishek-azad.site/posts/resilience-strategies/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/resilience-strategies/</guid>
+      <guid>https://abhishek-azad.site/posts/resilience-strategies/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Build Your Own Resilience Plan&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Three strategies to help you move forward when you&amp;rsquo;re stressed, burned out, anxious, or sad&lt;/em&gt;&lt;br&gt;&#xA;&lt;strong&gt;Reviewed by Howard E. LeWine, MD, Chief Medical Editor, Harvard Health Publishing; Editorial Advisory Board Member, Harvard Health Publishing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Nantucket — a 14-mile-long island off Massachusetts — has a 40-point resiliency plan to withstand the effects of climate change. Similarly, individuals can benefit from building personal resilience plans to deal with life&amp;rsquo;s challenges, big and small. But what exactly is resilience, and how can we cultivate it?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Can AI Answer Medical Questions Better Than Your Doctor?</title>
-      <link>http://localhost:1313/posts/html-and-css-only-tabs/</link>
+      <link>https://abhishek-azad.site/posts/html-and-css-only-tabs/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/html-and-css-only-tabs/</guid>
+      <guid>https://abhishek-azad.site/posts/html-and-css-only-tabs/</guid>
       <description>&lt;p&gt;Last year, headlines describing a study about artificial intelligence (AI) were eye-catching, to say the least:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;ChatGPT Rated as Better Than Real Doctors for Empathy, Advice&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;The AI will see you now: ChatGPT provides higher quality answers and is more empathetic than a real doctor, study finds&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Is AI Better Than A Doctor? ChatGPT Outperforms Physicians In Compassion And Quality Of Advice&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;At first glance, the idea that a chatbot using AI might be able to generate good answers to patient questions isn&amp;rsquo;t surprising. After all, ChatGPT boasts that it passed a final exam for a Wharton MBA, wrote a book in a few hours, and composed original music.&lt;/p&gt;&#xA;&lt;p&gt;But showing more empathy than your doctor? Ouch. Before assigning final honors on quality and empathy to either side, let&amp;rsquo;s take a second look.&lt;/p&gt;</description>
     </item>
     <item>
       <title>One way to combat loneliness? Strengthen relationships you already have</title>
-      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <link>https://abhishek-azad.site/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <guid>https://abhishek-azad.site/posts/math-typesetting/</guid>
       <description>&lt;p&gt;One way to combat loneliness? Strengthen relationships you already have&lt;br&gt;&#xA;&lt;strong&gt;January 3, 2025&lt;/strong&gt;&lt;br&gt;&#xA;By &lt;em&gt;Lisa Catanese, ELS, Health Writer&lt;/em&gt;&lt;br&gt;&#xA;Reviewed by &lt;em&gt;Robert H. Shmerling, MD&lt;/em&gt;, Senior Faculty Editor, Harvard Health Publishing; Editorial Advisory Board Member, Harvard Health Publishing&lt;/p&gt;&#xA;&lt;p&gt;A loneliness epidemic in the U.S. is taking a toll on people&amp;rsquo;s physical and mental health. Mental health problems linked to loneliness include higher rates of anxiety, depression, suicide, anger, and violence. Loneliness also impacts physical health, contributing to an increased risk of heart disease, stroke, high blood pressure, infection, diabetes, dementia, and early death.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The healing power of kindness </title>
-      <link>http://localhost:1313/posts/mermaid-support/</link>
+      <link>https://abhishek-azad.site/posts/mermaid-support/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mermaid-support/</guid>
+      <guid>https://abhishek-azad.site/posts/mermaid-support/</guid>
       <description>&lt;p&gt;Staying Healthy&lt;br&gt;&#xA;The healing power of kindness&lt;br&gt;&#xA;Being kind isn&amp;rsquo;t just gratifying — it&amp;rsquo;s a path to greater well-being.&lt;br&gt;&#xA;April 1, 2025&lt;br&gt;&#xA;By Maureen Salamon, Executive Editor, Harvard Women&amp;rsquo;s Health Watch&lt;br&gt;&#xA;Reviewed by Toni Golen, MD, Editor in Chief, Harvard Women&amp;rsquo;s Health Watch; Editorial Advisory Board Member, Harvard Health Publishing; Contributor&lt;/p&gt;&#xA;&lt;p&gt;A group of people volunteering at a food drive, filling a box with food items.&lt;/p&gt;&#xA;&lt;p&gt;Every year, Tyler VanderWeele chooses a six-week span to do things for others that might ordinarily seem too inconvenient. His good deeds are many and varied: he might give a friend an unexpected gift, invite someone out for coffee, set aside time at work to support a colleague, or bring a family member&amp;rsquo;s favorite food to the dinner table.&lt;/p&gt;</description>
     </item>
   </channel>
