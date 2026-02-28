@@ -25,18 +25,17 @@ Kolkata, WB | 2021 – 2025
 
 ---
 
-I am Abhishek Kumar Azad, a proactive and results-driven software developer specializing in Android development and full-stack engineering. Currently pursuing my Bachelor of Technology in Computer Science & Engineering at RCCIIT, I have honed a diverse technical skill set spanning Kotlin, Java, Python, JavaScript, and backend technologies.
+I am Abhishek Kumar Azad, a software engineer specializing in desktop application development, computer vision systems, and full-stack product engineering. I design and build production-grade software with a strong focus on architecture, performance, and maintainability.
 
-My journey as a developer began with a curiosity for how software powers everyday devices and evolved into building complex, modular applications that solve real-world problems. From creating cutting-edge Android apps using Jetpack Compose and Material3 to developing scalable backend services with Node.js, FastAPI, and Docker, I embrace challenges with a growth mindset.
+My expertise lies in C++/Python-based systems, StateGUI/Qt native desktop applications, OpenCV-driven vision pipelines, and modular software architecture. I have engineered complete inspection and imaging platforms integrating industrial camera SDKs, real-time processing pipelines, and responsive UI systems. My work spans low-level SDK integration, image processing, concurrent execution, and structured tool-based processing frameworks designed for reliability and extensibility.
 
-I excel at designing intuitive user experiences, optimizing performance through profiling and concurrency, and integrating APIs to build feature-rich applications. My projects reflect a strong commitment to code quality, maintainability, and user-centric design—backed by rigorous testing and modern architectural patterns.
+I approach software development from a full-stack product perspective—designing clean MVC-based architectures, scalable backend integrations, and robust frontend experiences. I have built complete end-to-end products, including desktop creative tools, vision inspection systems, and automation-driven workflows, with emphasis on modular design, signal-driven communication, and maintainable codebases suitable for long-term evolution.
 
-With hands-on experience in compiler design, AI-powered chatbots, and blockchain platforms, I bring innovative solutions to both educational and enterprise contexts. I am passionate about continuous learning, collaboration, and contributing to open-source communities.
+I excel at translating complex technical requirements into structured, production-ready systems. My strengths include software architecture design, debugging and performance optimization, SDK integration, UI/UX engineering, and building extensible tool-driven frameworks. I prioritize clean abstractions, separation of concerns, and engineering discipline to ensure reliability and scalability.
 
-I am excited to leverage my skills and creativity to drive impactful software products, contribute to visionary teams, and grow as a developer who shapes the future of technology.
+I am passionate about building high-quality software products, solving challenging engineering problems, and continuously advancing my expertise in computer vision, system design, and product-level engineering.
 
 ---
-
 
 ## Technical Skills
 

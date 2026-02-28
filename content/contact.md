@@ -11,11 +11,10 @@ Whether you're a fellow dev, curious mind, startup dreamer, or someone who just 
 
 ### 📬 Email  
 Drop a line anytime: [reyanshroyabhi@gmail.com](mailto:reyanshroyabhi@gmail.com)  
-I check it more often than my fridge.
 
 ### 🐦 Twitter  
 Let’s exchange hot takes, memes, and dev rants:  
-[@ummmm](https://reyxx777.github.io/X-redirect-X/)
+[https://x.com/AbhishekAzad77](https://x.com/AbhishekAzad77)
 
 ### 💼 LinkedIn  
 Professional vibes? Collaborations? Career convos?  
