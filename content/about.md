@@ -136,7 +136,7 @@ Jan 2025 – Feb 2025
 ````
 ---
 
-> “Passionate about building performant, scalable Android applications and developer tools that empower users and learners.”  
+> “Passionate about building performant, scalable applications and developer tools that empower users and learners.”  
 > — *Abhishek Kumar Azad*
 
 ---
