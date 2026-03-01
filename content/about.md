@@ -18,10 +18,14 @@ Contact:
 ````
 ---
 
-## Education
+## Alme Mater
+
+**Holy Family School** - *CISCE (A fantastic Christian Missionary school—highly recommended for families!)*
+
+Bhagalpur, BR
 
 **RCCIIT** — *Bachelor of Technology in Computer Science & Engineering*  
-Kolkata, WB | 2021 – 2025  
+Kolkata, WB
 
 ---
 
